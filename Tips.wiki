@@ -1,0 +1,2 @@
+* Don't worry about using Bootstrap or an existing style when you don't know how they work. Basic HTML and CSS to start with.
+* Create your HTML first and focus on using meaningful elements for the content. The style comes later.

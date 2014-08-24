@@ -1,0 +1,10 @@
+* <div> - general block level element (can contain other block or inline elements)
+* <span> - inline element (can contain other inline elements)
+* <header> - header for some content (there can be multiple headers in a page)
+* <nav> - a section used for navigation
+* <aside> - some separate content
+* <img> - often used with [[HTML Attributes|src and alt attributes]] to describe an image
+* <a> - an anchor element usually used with the [[HTML Attributes|href attribute]]
+* <section> - should be able to be understood on its own
+* <ol> - a list that has a certain ordering 
+* <ul> - makes sense in any order
