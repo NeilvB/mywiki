@@ -1,9 +1,10 @@
+= Git =
+  * [[Commands]]
 = HTML =
-    * [[HTML Elements]]
-    * [[HTML Attributes]]
+  * [[Tips]]
+  * [[HTML Elements]]
+  * [[HTML Attributes]]
 = CSS =
-    * My Urgent [[Tasks]] -- things to be done _yesterday_!!!
+  * [[Selectors]]
 = Rails =
-    * My Urgent [[Tasks]] -- things to be done _yesterday_!!!
-    * [[Project Gutenberg]] -- good books are power.
-    * Scratch Pad -- various temporary stuff.
+  * My Urgent [[Tasks]] -- things to be done _yesterday_!!!

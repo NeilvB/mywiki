@@ -1,0 +1,2 @@
+* classes - selected with a preceding full stop
+* elements - selected without and prefix
