@@ -1,10 +1,10 @@
-* git clone
-* git init
-* git status
-* git log
-* git add
-* git commit
-* git checkout
-* git branch
-* git pull
+* git clone - clone a remote repo (e.g. supply GitHub URL)
+* git init - initialise a new repo
+* git status - display info about additions/deletions and modifications to the working tree and to the staging area
+* git log - display the commit history
+* git add - add some files to the staging area
+* git commit - commit indexed changes to the repo
+* git checkout - switch to a named branch
+* git branch - display the list of branches
+* git pull - 
 * git push

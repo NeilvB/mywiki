@@ -1,10 +1,10 @@
 = Git =
   * [[Commands]]
 = HTML =
-  * [[Tips]]
+  * [[HTML_Tips|Tips]]
   * [[HTML Elements]]
   * [[HTML Attributes]]
 = CSS =
+  * [[CSS_Tips|Tips]]
   * [[Selectors]]
 = Rails =
-  * My Urgent [[Tasks]] -- things to be done _yesterday_!!!
